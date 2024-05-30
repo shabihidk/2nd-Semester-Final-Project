@@ -4,6 +4,6 @@ ________________________________________________________________________________
 
 
 
-- [Project Report](link-to-project-1) : Contains breakdown of project's thought process.
-- [Project Code](link-to-project-2): Code and Files Required
-- [Restriction Notice](link-to-project-2): Code Limitations
+- [Project Report](https://github.com/shabihidk/2nd-Semester-Final-Project/blob/main/Report.docx) : Contains breakdown of project's thought process.
+- [Project Code](https://github.com/shabihidk/2nd-Semester-Final-Project/blob/main/Code%20Project.zip): Code and Files Required
+- [Restriction Notice](https://github.com/shabihidk/2nd-Semester-Final-Project/blob/main/README.txt): Code Limitations
