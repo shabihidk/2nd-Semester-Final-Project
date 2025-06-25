@@ -63,11 +63,6 @@ A desktop-based clustering and visualization tool that processes datasets, calcu
 
 ## 📸 Sample Outputs
 
-## 📸 Sample Outputs
-
-Below are visual outputs from the SignatureClusterTool, showing the transformation of the dataset through correlation, permutation, and clustering.
-
----
 
 ### 🟦 Original Correlation Matrix
 
