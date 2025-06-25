@@ -65,7 +65,8 @@ A desktop-based clustering and visualization tool that processes datasets, calcu
 
 | Original | Permuted | Clustered |
 |----------|----------|-----------|
-| ![Original](samples/original.png) | ![Permuted](samples/permuted.png) | ![Clustered](samples/clustered.png) |
+| ![Original](![image](https://github.com/user-attachments/assets/0d3dd560-6a53-4b26-8330-186872ec818e)) | ![Permuted](![image](https://github.com/user-attachments/assets/5df74217-fc1d-4a59-8a6c-9f501f444511)) | ![Clustered](![image](https://github.com/user-attachments/assets/a9e9a3a6-f105-4405-a3a7-96876dd3e718)
+) |
 
 ---
 
